@@ -43,7 +43,7 @@ GitHub: [@abdullahjaved40](https://github.com/abdullahjaved40)
 
 ```bash
 # Clone the repository (or download the .py file)
-git clone https://github.com/abdullahjaved40/contact-management-system.git
+git clone https://github.com/abdullahjaved40/Contact_Managment_System_Using_python
 
 # Navigate to the project folder
 cd contact-management-system
